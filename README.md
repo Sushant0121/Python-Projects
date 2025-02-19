@@ -8,6 +8,7 @@ Description: A classic river-crossing puzzle where three missionaries and three 
 
 Files:
 3Cannibals3Missionary_Problem.ipynb – Problem statement and setup
+
 3Cannibals3Missionary_Solution.ipynb – Solution implementation
 
 2️⃣ Bike Rental System (OOPs-Based)
@@ -16,6 +17,7 @@ Description: A bike rental system designed using Object-Oriented Programming (OO
 
 Files:
 Bike_Rent_OOPs_Problem.ipynb – Problem statement and class design
+
 Bike_Rent_OOPs_Solution.ipynb – Solution implementation
 
 3️⃣ Contact Management App
@@ -24,4 +26,5 @@ Description: A simple contact management application to add, update, delete, and
 
 Files:
 Contact_App_Problem.ipynb – Problem statement and requirements
+
 Contact_App_Solution.ipynb – Solution implementation
