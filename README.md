@@ -1,3 +1,8 @@
+# 🐍 Python Logic-Based Projects
+
+This repository contains simple, beginner-friendly Python projects focused on core programming concepts like functions, loops, conditionals, and file handling. Each project runs on basic Python — no external libraries required.
+
+
 # 📁 Projects Included
 
 # 1. 🧍‍♂️🌊 Missionaries and Cannibals Game
