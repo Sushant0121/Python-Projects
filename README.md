@@ -1,33 +1,32 @@
-# Python-Projects
+# 📁 Projects Included
 
-1️⃣ 3 Cannibals & 3 Missionaries Problem
-
-Description: A classic river-crossing puzzle where three missionaries and three cannibals must cross a river using a boat, following constraints to ensure no missionaries are eaten.
-
-Files:
-
-3Cannibals3Missionary_Problem.ipynb – Problem statement and setup
-
-3Cannibals3Missionary_Solution.ipynb – Solution implementation
+1. 🧍‍♂️🌊 Missionaries and Cannibals Game
+   
+Solve the classic river-crossing puzzle using logic and rule-based checks to move characters safely.
 
 
-2️⃣ Bike Rental System (OOPs-Based)
+3. 🚲 Bike Rental Logic (Non-ML)
+   
+A basic simulation to calculate or record bike rental data based on user input (not using machine learning).
 
-Description: A bike rental system designed using Object-Oriented Programming (OOPs) concepts, allowing users to rent bikes hourly, daily, or weekly.
+5. ☎️ Contact Management App
+   
+A command-line application to:
 
-Files:
+* Add, update, delete, and search contacts
 
-Bike_Rent_OOPs_Problem.ipynb – Problem statement and class design
-
-Bike_Rent_OOPs_Solution.ipynb – Solution implementation
+* Save and read data from a file
 
 
-3️⃣ Contact Management App
+# 🛠️ Tech Used
 
-Description: A simple contact management application to add, update, delete, and search contacts using Python.
+* Python 3
 
-Files:
+* No external libraries
 
-Contact_App_Problem.ipynb – Problem statement and requirements
+* Run directly via terminal, VS Code, or any Python IDE
 
-Contact_App_Solution.ipynb – Solution implementation
+
+👨‍💻 Author
+
+Sushant Kalsar
